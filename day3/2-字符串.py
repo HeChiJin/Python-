@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2025年12月25日09时54分13秒
-# xxx@qq.com
+
 # s = '123456"7'
 # s1 = "abc'd"
 # s2 = '12\"\''
@@ -58,3 +56,4 @@ def use_str_method():
 
 # str_slice()
 use_str_method()
+
