@@ -1,4 +1,3 @@
-
 t1 = (1, 2, 3)
 
 print(t1[0])
@@ -25,4 +24,5 @@ new_tuple = (1,)
 print(type(new_tuple))
 for i in new_tuple:
     print(i)
+
 
