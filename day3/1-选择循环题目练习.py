@@ -1,4 +1,3 @@
-
 import random
 """
 题目要求：随机生成一个0~99之间的整数，让用户猜数，
@@ -35,4 +34,5 @@ def for_else():
 
 # guess_num()
 for_else()
+
 
