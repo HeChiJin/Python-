@@ -1,8 +1,10 @@
-# 作者: 王道 龙哥
-# 2025年12月25日09时31分28秒
-# xxx@qq.com
-import random
 
+import random
+"""
+题目要求：随机生成一个0~99之间的整数，让用户猜数，
+用户猜对结束并显示“猜对了”，猜错时显示“猜大了”或
+“猜小了”，最多5次机会
+"""
 
 def guess_num():
     computer_num = random.randint(1, 100)
@@ -33,3 +35,4 @@ def for_else():
 
 # guess_num()
 for_else()
+
