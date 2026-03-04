@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月24日16时52分02秒
-# xxx@qq.com
 
 def print_hello():
     i = 0
@@ -97,4 +94,5 @@ def use_continue():
 # use_two_while()
 # print_triangle()
 # use_break()
+
 use_continue()
