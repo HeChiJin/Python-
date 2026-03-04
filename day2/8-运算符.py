@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月24日15时50分22秒
-# xxx@qq.com
 
 def use_cal():
     """
@@ -73,3 +70,4 @@ def use_ternary():
 # use_bit()
 # find_num()
 use_ternary()
+
