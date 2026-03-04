@@ -1,4 +1,3 @@
-
 # s = '123456"7'
 # s1 = "abc'd"
 # s2 = '12\"\''
@@ -56,4 +55,5 @@ def use_str_method():
 
 # str_slice()
 use_str_method()
+
 
