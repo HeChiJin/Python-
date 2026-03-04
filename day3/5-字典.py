@@ -1,5 +1,3 @@
-
-
 def dict_add_modify_del():
     student = {'name': 'bob', 'age': 20, 'height': 98.5}
     print(student)
@@ -62,4 +60,5 @@ def dict_work():
 # dict_add_modify_del()
 # dict_get()
 dict_work()
+
 
