@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月24日14时08分21秒
-# xxx@qq.com
 
 # 一切皆对象
 name = 'a'
@@ -23,3 +20,4 @@ print('-' * 50)
 # 复数
 k = complex(2, 3)
 print(k.real, k.imag)
+
