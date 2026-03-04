@@ -1,7 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月25日16时37分11秒
-# xxx@qq.com
-
 def container_compare():
     list_a = [1, 2, 3]
     list_b = [3, 1]
@@ -33,3 +29,4 @@ def container_function():
 
 # container_compare()
 container_function()
+
