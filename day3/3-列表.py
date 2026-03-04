@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2025年12月25日10时56分31秒
-# xxx@qq.com
+
 import random
 
 
@@ -120,3 +118,4 @@ def classroom():
 # list_while_del()
 # list_modify()
 classroom()
+
